@@ -5,3 +5,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-22
 - Tested build on clean environment
 - Reviewed open issues, added labels
+
+## 2026-03-22
+- Noted known limitation in docs
